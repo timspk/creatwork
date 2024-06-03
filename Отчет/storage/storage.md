@@ -15,4 +15,4 @@
 ## Тестирование
 Тестирование приложения представлено в видео на Youtube: https://youtu.be/dDgVHpv3kw0 (первая часть)
 ## UML-Диаграмма классов
-UML-Диаграмма размещена в папке с отчетом. [UML-Диаграмма]([https://github.com/timspk/creatwork/blob/main/Otcheti/storage/storage.png](https://github.com/timspk/creatwork/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82/storage/storage.png))
+UML-Диаграмма размещена в папке с отчетом. [UML-Диаграмма](https://github.com/timspk/creatwork/blob/main/Otcheti/storage/storage.png)
